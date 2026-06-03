@@ -4,3 +4,4 @@ pdfplumber
 python-docx
 spacy
 phonenumbers
+gunicorn==21.2.0
